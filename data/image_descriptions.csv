@@ -1,0 +1,26 @@
+image_file,description
+images/image1.png," The image shows a stylized representation of the Google logo with an oriental theme. The logo features a dragon, which is a significant cultural symbol in various East Asian traditions, and it's depicted in a dynamic pose that suggests movement. Above the dragon, there are Chinese characters, possibly representing a company name or slogan related to the brand represented by the logo. The background has abstract elements, giving the impression of clouds or mist. The overall design is colorful with bold lines and shapes, making it visually striking."
+images/image2.png," This image features a charming orange tabby cat caught in mid-air, giving the impression of jumping or leaping with its front paws extended forward and its mouth open in a playful manner. The background is a softly blurred outdoor setting that appears to be a grassy area with trees and possibly some fallen leaves on the ground, suggesting this might be an autumn scene. The cat's expression and body language convey a sense of joy and excitement."
+images/image3.png," The image shows a promotional banner or advertisement for ""Genesis Advanced,"" which appears to be an AI-based product or service. It mentions that the offer is available at £9.99 per month and includes access to Google One Premium Plan as part of the package.
+
+The banner highlights the following benefits of the Genesis Advanced plan:
+
+1. Advanced with a 35% discount.
+2. Built in AI - Designed for highly complex tasks.
+3. Includes all the Google One Premium Plan benefits like Spotify, Netflix, and more.
+4. Also includes additional 2 GB of storage per month.
+
+There is a call to action button labeled ""Get Genesis Advanced,"" suggesting that viewers can click on it to learn more about or sign up for the service. The banner uses a combination of text and visual elements, such as the use of red and purple colors, which are commonly associated with urgency and excitement in marketing materials."
+images/image4.png," This image appears to be a diagram representing an AI architecture, focusing on the input and output processes of a neural network. The diagram is color-coded with various components labeled as follows:
+
+1. **Input** - This block represents the data that is fed into the neural network for processing. It can consist of images, text, audio, or other types of information depending on the specific application.
+2. **Positional Encoding** - This indicates that the architecture uses positional encoding to process sequences such as time series data (e.g., video frames in a sequence) or text data with positional information like word order in a sentence.
+3. **Add & Norm** - This suggests that the network includes an addition operation followed by a normalization step, which is common in neural network architectures to stabilize learning and improve performance.
+4. **Mult-Head Attention** - This block represents a mechanism within the model where attention is distributed across different parts of the input sequence. In the context of a speech model, for instance, it might attend to the entire audio waveform as a whole or specific parts like phonemes and phonetic segments.
+5. **Feed Forward** - This indicates that there's a feed-forward neural network within the architecture where data is processed through multiple layers with activation functions applied to each layer.
+6. **Output** - The output of the model, which could be a class prediction, a translation, a decision based on input data, or some other form of processing result.
+7. **Decoder Output Embedding** and **Encoder Output Embedding** - These blocks represent embedding layers that are used to transform the output into an appropriate format for downstream tasks, such as classification or regression.
+8. **Add & Norm** - Similar to the one in the encoder part of the network, this block indicates a similar operation but specifically for the decoder part of the model.
+9. **Softmax** - This is typically used in the output layer of models that are designed for multi-class classification tasks. It normalizes the final activations so that they sum up to 1 and can be interpreted as probabilities of each class.
+
+The diagram uses lines connecting these blocks, indicating the flow of data through the model, from input processing through various layers to output prediction. The architecture appears to include both an encoder (left) and a decoder (right), which is common in models like transformers that are used for tasks such as natural language translation or speech recognition."
